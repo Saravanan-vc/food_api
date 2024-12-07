@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "KFC Chicken Bucket",
+    "description": "A bucket of crispy fried chicken pieces with signature KFC seasoning.",
+    "image": "https://example.com/images/kfc-chicken-bucket.jpg",
+    "price": 20.99,
+    "category": "Fried Chicken"
+  },
+  {
+    "id": 2,
+    "name": "Cheeseburger",
+    "description": "A juicy beef burger topped with melted cheese, lettuce, and tomato.",
+    "image": "https://example.com/images/cheeseburger.jpg",
+    "price": 8.99,
+    "category": "Burger"
+  },
+  {
+    "id": 3,
+    "name": "Hot Dog",
+    "description": "A grilled sausage served in a soft bun, topped with ketchup and mustard.",
+    "image": "https://example.com/images/hot-dog.jpg",
+    "price": 5.99,
+    "category": "Fast Food"
+  },
+  {
+    "id": 4,
+    "name": "Pizza Slice",
+    "description": "A slice of cheesy pepperoni pizza with a crispy crust.",
+    "image": "https://example.com/images/pizza-slice.jpg",
+    "price": 3.99,
+    "category": "Pizza"
+  },
+  {
+    "id": 5,
+    "name": "French Fries",
+    "description": "Golden and crispy french fries served with ketchup.",
+    "image": "https://example.com/images/french-fries.jpg",
+    "price": 2.99,
+    "category": "Snacks"
+  },
+  {
+    "id": 6,
+    "name": "Taco",
+    "description": "A Mexican-style taco with beef, cheese, lettuce, and salsa.",
+    "image": "https://example.com/images/taco.jpg",
+    "price": 4.99,
+    "category": "Mexican"
+  },
+  {
+    "id": 7,
+    "name": "Doughnut",
+    "description": "A glazed doughnut with a soft and fluffy texture.",
+    "image": "https://example.com/images/doughnut.jpg",
+    "price": 1.99,
+    "category": "Dessert"
+  },
+  {
+    "id": 8,
+    "name": "Ice Cream Sundae",
+    "description": "A scoop of vanilla ice cream topped with chocolate syrup and sprinkles.",
+    "image": "https://example.com/images/ice-cream-sundae.jpg",
+    "price": 3.49,
+    "category": "Dessert"
+  },
+  {
+    "id": 9,
+    "name": "Chicken Wings",
+    "description": "Spicy and tangy chicken wings served with dipping sauce.",
+    "image": "https://example.com/images/chicken-wings.jpg",
+    "price": 9.99,
+    "category": "Fried Chicken"
+  },
+  {
+    "id": 10,
+    "name": "Soft Drink",
+    "description": "A refreshing cold beverage to accompany your meal.",
+    "image": "https://example.com/images/soft-drink.jpg",
+    "price": 1.49,
+    "category": "Beverage"
+  }
+]
